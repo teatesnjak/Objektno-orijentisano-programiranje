@@ -130,7 +130,7 @@ void KozmetickiSalon::ucitajUslugeIzFajla() {
             }
         }
 
-        std::cout << "Podaci o uslugama su uspesno ucitani iz usluge.txt." << std::endl;
+        std::cout << "Podaci o uslugama su uspjesno ucitani iz usluge.txt." << std::endl;
     } else {
         std::cerr << "Greska prilikom otvaranja datoteke usluge.txt za citanje." << std::endl;
     }
